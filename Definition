@@ -1,0 +1,7 @@
+### Table Post
+| Name | Type | Null? |
+| ------ | ------ | ------ |
+| title | varchar(100) | No |
+| post | text | No |
+| author | int | No |
+
